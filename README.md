@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter, Java Script**
 
-- 💬 Ask me about **HTML, CSS, Java Script**
+- 💬 Ask me about **HTML, CSS, Fitness**
 
 - 📫 How to reach me **firlyandrasatria@gmail.com**
 
